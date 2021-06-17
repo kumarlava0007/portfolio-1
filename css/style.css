@@ -1,0 +1,47 @@
+.navbar{
+    background-color: lightcoral;
+}
+    .nav{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: black;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align:initial;
+    padding: 20px;
+    /*text-decoration-line: underline;  */
+}
+.middle{
+    padding-top: 70px;
+    padding-right: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.middle1{
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-decoration: none;
+  margin: 5px 2px;
+  text-align: center;
+}
+.fa:hover{
+    opacity: 0.5;
+    text-align: initial;
+}
+
+
+.checked{
+    color: orange;
+}
+
+
+.container1{
+    background-color: mediumspringgreen;
+}
+.text1{
+    height: 320px;
+}
