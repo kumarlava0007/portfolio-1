@@ -44,4 +44,45 @@ p{
 }
 .text1{
     height: 320px;
+}   
+.form{
+   
+    background-color: aqua;
+}
+.container3.head{
+    color: aquamarine;
+}
+.container3{
+    margin-left: 550px;
+    padding-top: 50px;
+
+}
+.name{
+    color: blue;
+}
+.name.gender{
+    color: black;
+}
+.name.check{
+    margin-left: 50px;
+}
+.list{
+    color:blue;
+    margin-left: 600px;
+    font-weight: bold;
+    padding-top: 100px;
+}
+.video{
+    background-color: cornflowerblue;
+   
+}
+.video1{
+    margin-left: 350px;
+}
+.Audio{
+    background-color: blue;
+   
+}
+.Audio1{
+    margin-left: 500px;
 }
